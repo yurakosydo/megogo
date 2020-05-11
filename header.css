@@ -1,0 +1,38 @@
+#bg{
+	background-image:url(img/15.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100vh;
+}
+.nav-link{color:white;transition:0.6s;}
+.nav-link:hover{color:#FCE38A;
+border-bottom:2px solid #FCE38A;
+}
+.aft
+::after{
+content:'';
+position:absolute;
+left:50%;
+top:53%;
+transform:translate(-50%,-55%);
+width:100px;
+height:2px;
+}
+.progress{
+	height:3px;
+}
+.tex-ligh{
+	background-color:white;
+}
+.hov{
+	transition:0.3s;
+}
+.hov:hover{
+	transform:translate(-10px,5px);
+}
+#bg_1{
+	background-image:url(img/Layer45.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:78vh;
+}
